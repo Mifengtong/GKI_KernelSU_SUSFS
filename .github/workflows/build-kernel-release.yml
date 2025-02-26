@@ -18,9 +18,9 @@ on:
         type: choice
         options:
           - Official
-          - next
+          - Next
           - MKSU
-        default: next
+        default: Next
       kernelsu_branch:
         description: "Choose ksu branch"
         required: true
